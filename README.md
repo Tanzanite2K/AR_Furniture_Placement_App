@@ -12,7 +12,7 @@ The AR Furniture Placement App helps users preview furniture in their home befor
 
 1. *Clone the repository*
 bash
-git clone https://github.com/yourusername/ar-furniture-placement-app.git
+git clone https://github.com/Tanzanite2K/AR_Furniture_Placement_App.git
 
 
 2. Open the Xcode project  
